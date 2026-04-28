@@ -1,0 +1,21 @@
+url,score,risk,risk_label,explanation
+https://google.com,4,Safe,Likely Phishing,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
+https://google.com,4,Safe,Suspicious,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
+http://192.168.1.1/update%,18,Suspicious,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+http://192.168.1.1/update%,18,Suspicious,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+https://google.com,4,Safe,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
+http://paypa1.com,12,Safe,Likely Phishing,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; B; r; a; n; d;  ; i; m; p; e; r; s; o; n; a; t; i; o; n
+http://192.168.1.1/update%,18,Suspicious,Suspicious,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+https://google.com,4,Safe,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
+http://paypa1.com,12,Safe,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; B; r; a; n; d;  ; i; m; p; e; r; s; o; n; a; t; i; o; n
+http://192.168.1.1/update%,18,Suspicious,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+https://google.com,4,Safe,Likely Phishing,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
+http://paypa1.com,12,Safe,Likely Phishing,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; B; r; a; n; d;  ; i; m; p; e; r; s; o; n; a; t; i; o; n
+http://192.168.1.1/update%,18,Suspicious,Likely Phishing,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+https://google.com,4,Safe,Likely Phishing,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
+http://192.168.1.1/update%,18,Suspicious,Suspicious,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+http://192.168.1.1/update%,18,Suspicious,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+http://paypa1.com,12,Safe,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; B; r; a; n; d;  ; i; m; p; e; r; s; o; n; a; t; i; o; n
+http://paypa1.com,12,Safe,Suspicious,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; B; r; a; n; d;  ; i; m; p; e; r; s; o; n; a; t; i; o; n
+http://192.168.1.1/update%,18,Suspicious,Safe,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s; S; p; e; c; i; a; l;  ; c; h; a; r; s;  ; (; %; ); U; s; e; s;  ; I; P;  ; a; d; d; r; e; s; s
+https://google.com,4,Safe,Suspicious,M; a; n; y;  ; s; u; b; d; o; m; a; i; n; s
